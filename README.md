@@ -11,6 +11,8 @@
   <div> this area of my article contains my hobbies</div>
      <ul>
         <li> This is some samples</li>
+   <li> I love reading</li>
+   <li> love adventure</li>
    </ul>
   <footer>
     <h2>"This is created by mrcup1d"</h2>
