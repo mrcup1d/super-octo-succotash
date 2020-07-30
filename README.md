@@ -1,10 +1,5 @@
 # super-octo-succotash
 <body>
-   <style>
-      h1 { 
-       font-family: lobster;
-      font-size: 25px;
-   </style>
    <header>
      <h1> Hello this is my World</h1>
   </header>
@@ -17,7 +12,8 @@
      <ul>
         <li> This is some samples</li>
    <li> I love reading</li>
-   <li> love adventure</li>
+   <li> I love adventure</li>
+   <li> I also wanted to become a professional white hat hacker</li>
    </ul>
   <footer>
     <h2>"This is created by mrcup1d"</h2>
