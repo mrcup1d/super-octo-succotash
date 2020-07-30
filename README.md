@@ -1,5 +1,10 @@
 # super-octo-succotash
 <body>
+   <style>
+      h1 { 
+       font-family: lobster;
+      font-size: 25px;
+   </style>
    <header>
      <h1> Hello this is my World</h1>
   </header>
